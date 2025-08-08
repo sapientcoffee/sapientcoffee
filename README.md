@@ -25,6 +25,12 @@ Helping solve customers application delivery 👨🏻‍💻 and observability �
 *   🌍  I'm currently based in Vancouver, Canada (although lived the majority of my life in the UK)
 *   ✉️  You can contact me at [rob@sapient.coffee](mailto:rob@sapient.coffee)
 
+I (try to) organise my repositories into lists based on their purpose. You can browse them directly here:
+
+- [🎓 **MSc University Projects**](https://github.com/stars/sapientcoffee/lists/msc-psychology)
+- [🚀 **Event Talks**](https://github.com/stars/sapientcoffee/lists/talks)
+- [☁️ **Google Cloud Demos**](https://github.com/stars/sapientcoffee/lists/google-cloud-demos)
+
 ### Skills
 
 <p align="left">
